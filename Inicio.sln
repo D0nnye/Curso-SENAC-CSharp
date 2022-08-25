@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If e else", "Estruturas\If 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartamento", "Apartamento\Apartamento.csproj", "{A7E37B77-BD1C-4126-9181-B1895D1E648C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura de numero e retorno", "Leitura de numero e retorno\Leitura de numero e retorno.csproj", "{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "Notas\Notas.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
