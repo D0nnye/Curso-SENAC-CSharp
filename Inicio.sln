@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada simples", "Tabuada 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo de M2", "ConsoleApp1\Calculo de M2.csproj", "{05B18297-2576-49D3-90DE-6EA2A5CE79AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If e else", "Estruturas\If e else.csproj", "{FD879553-250C-42F3-8DDF-9808B4F71D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartamento", "Apartamento\Apartamento.csproj", "{A7E37B77-BD1C-4126-9181-B1895D1E648C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{05B18297-2576-49D3-90DE-6EA2A5CE79AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B18297-2576-49D3-90DE-6EA2A5CE79AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B18297-2576-49D3-90DE-6EA2A5CE79AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD879553-250C-42F3-8DDF-9808B4F71D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD879553-250C-42F3-8DDF-9808B4F71D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD879553-250C-42F3-8DDF-9808B4F71D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD879553-250C-42F3-8DDF-9808B4F71D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E37B77-BD1C-4126-9181-B1895D1E648C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
