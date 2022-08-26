@@ -8,7 +8,7 @@ namespace Tabuada
         {
          
             int formula, contador, numero;
-
+            jj
             Console.Write("Digite um numero : ");
             numero = Int32.Parse(Console.ReadLine());
 
