@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inicio", "Inicio\Inicio.csproj", "{8564B179-79F7-4432-BEEB-E484F243774F}"
 EndProject
@@ -19,19 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculos", "Calculos\Calcul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo de troco", "Calculo de troco\Calculo de troco.csproj", "{3A7B689E-C018-408F-A336-188688FC43DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuado com laco for", "Tabuada\Tabuado com laco for.csproj", "{24F3AE93-8836-46D1-AA40-82A9E7658523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada Infinita", "Tabuada\Tabuada Infinita.csproj", "{24F3AE93-8836-46D1-AA40-82A9E7658523}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada simples", "Tabuada simples\Tabuada simples.csproj", "{E0A1FA7A-00BB-42EC-9825-FE46ECCCE860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo de M2", "ConsoleApp1\Calculo de M2.csproj", "{05B18297-2576-49D3-90DE-6EA2A5CE79AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo de M2", "ConsoleApp1\Calculo de M2.csproj", "{05B18297-2576-49D3-90DE-6EA2A5CE79AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If e else", "Estruturas\If e else.csproj", "{FD879553-250C-42F3-8DDF-9808B4F71D2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If e else", "Estruturas\If e else.csproj", "{FD879553-250C-42F3-8DDF-9808B4F71D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartamento", "Apartamento\Apartamento.csproj", "{A7E37B77-BD1C-4126-9181-B1895D1E648C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apartamento", "Apartamento\Apartamento.csproj", "{A7E37B77-BD1C-4126-9181-B1895D1E648C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura de numero e retorno", "Leitura de numero e retorno\Leitura de numero e retorno.csproj", "{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leitura de numero e retorno", "Leitura de numero e retorno\Leitura de numero e retorno.csproj", "{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "Notas\Notas.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOTA", "Notas\NOTA.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
