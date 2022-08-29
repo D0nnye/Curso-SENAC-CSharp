@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leitura de numero e retorno
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOTA", "Notas\NOTA.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anotacoes", "Anotacoes\Anotacoes.csproj", "{C2685CDA-E645-48AE-A768-7CFC12F8372D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anotacoes", "Anotacoes\Anotacoes.csproj", "{C2685CDA-E645-48AE-A768-7CFC12F8372D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{59EF916C-D97E-44B0-8AE3-076DF517A9DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{59EF916C-D97E-44B0-8AE3-076DF517A9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2908", "Aula 2908\Aula 2908.csproj", "{48CA5123-16BC-4681-84C7-79F7D8AEFD85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{59EF916C-D97E-44B0-8AE3-076DF517A9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EF916C-D97E-44B0-8AE3-076DF517A9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EF916C-D97E-44B0-8AE3-076DF517A9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
