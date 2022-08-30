@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inicio", "Inicio\Inicio.csproj", "{8564B179-79F7-4432-BEEB-E484F243774F}"
 EndProject
@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculos", "Calculos\Calcul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo de troco", "Calculo de troco\Calculo de troco.csproj", "{3A7B689E-C018-408F-A336-188688FC43DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada Infinita", "Tabuada\Tabuada Infinita.csproj", "{24F3AE93-8836-46D1-AA40-82A9E7658523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada com laço FOR", "Tabuada\Tabuada com laço FOR.csproj", "{24F3AE93-8836-46D1-AA40-82A9E7658523}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada simples", "Tabuada simples\Tabuada simples.csproj", "{E0A1FA7A-00BB-42EC-9825-FE46ECCCE860}"
 EndProject
@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apartamento", "Apartamento\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leitura de numero e retorno", "Leitura de numero e retorno\Leitura de numero e retorno.csproj", "{EC535B2D-48E9-48CF-8AFC-893B7E1B0BC6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOTA", "Notas\NOTA.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo de nota com IF e ELSE", "Notas\Calculo de nota com IF e ELSE.csproj", "{8ED3D24C-1229-44E1-B340-EAFD4CC117DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anotacoes", "Anotacoes\Anotacoes.csproj", "{C2685CDA-E645-48AE-A768-7CFC12F8372D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{59EF916C-D97E-44B0-8AE3-076DF517A9DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2908", "Aula 2908\Aula 2908.csproj", "{48CA5123-16BC-4681-84C7-79F7D8AEFD85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 2908", "Aula 2908\Aula 2908.csproj", "{48CA5123-16BC-4681-84C7-79F7D8AEFD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eX", "eX\eX.csproj", "{ED8D6C2B-EB66-4974-B3D1-734309F80D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48CA5123-16BC-4681-84C7-79F7D8AEFD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8D6C2B-EB66-4974-B3D1-734309F80D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8D6C2B-EB66-4974-B3D1-734309F80D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8D6C2B-EB66-4974-B3D1-734309F80D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8D6C2B-EB66-4974-B3D1-734309F80D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

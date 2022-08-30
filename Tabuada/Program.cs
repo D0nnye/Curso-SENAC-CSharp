@@ -6,7 +6,7 @@ namespace Tabuada
     {
         static void Main(string[] args)
         {
-         
+         //Tabuada infinita com laço for atribuido.
             int formula, contador, numero;
             jj
             Console.Write("Digite um numero : ");
